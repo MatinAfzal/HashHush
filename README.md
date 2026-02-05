@@ -1,6 +1,6 @@
 # HashHush
 
-![images](https://github.com/user-attachments/assets/62b51e57-044b-40c2-aead-fca4063d464a)
+![images](osan.jpg)
 
 **This program helps you keep your identity secure on the internet after you hacked the whole country’s digital infrastructure.** <br />
 
