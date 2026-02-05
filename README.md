@@ -104,15 +104,21 @@ This allows you to create a chain of identity messages like this:
 Hey again, I'm the dude who hacked the whole country and I'm keeping my identity using this system.
 
 My Previous Message:
-PAGE:
-6d6a48bef72948fe14c36e013e836b9d18c1aa068fc585b6ed9a8cf58cec472d2b940034d96ced202de20a0600829c86d99f569dd7696fc63e409f313b8c1504
-Seed: 1365426264
+********************HashHush V1.0.0**************************
+The owner of these hushes is the creator of the linked page.
+*************************************************************
+PAGE :
+ef1ac24576ec5de394f9fa7db0e640efde6a4f4a5221b85456cc28c2a048adc612c13d8f457257fc7d9c03525d188080bf625471447005caf8c63237619c2c20
+Seed: 2626541424
 Count: 5
 Length: 30
 Identification keys:
 Matin
 Afzal
 Asr
+********************HashHush V1.0.0**************************
+The owner of these hushes is the creator of the linked page.
+*************************************************************
 
 My Next Message:
 ********************HashHush V1.0.0**********************
